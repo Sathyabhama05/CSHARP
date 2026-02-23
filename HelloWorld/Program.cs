@@ -1,12 +1,28 @@
-﻿namespace HelloWorld // Matches your folder name
+﻿using System;
+using HelloWorld;
+
+public class Program
 {
-    class Program // Standard naming, matches your Program.cs file
+    public static void Main()
     {
-        public static void Main(string[] args)
-        {
-            // Example usage
-            Console.WriteLine("Factorial of 5: ");
-            Console.WriteLine("Is 7 Prime? ");
-        }
+        // Create an instance of your Calculator class
+        Program1 calc = new Program1();
+
+        Console.WriteLine("C# Console Calculator");
+        
+        Console.Write("Num 1: ");
+        double a = Convert.ToDouble(Console.ReadLine());
+        
+        Console.Write("Operator (+, -, *, /): ");
+        char op = (Console.ReadLine() ?? "+")[0];
+
+        
+        Console.Write("Num 2: ");
+        double b = Convert.ToDouble(Console.ReadLine());
+
+        // Call the Calculate method from the other file
+        double finalResult = calc.Calculate(a, b, op);
+
+        Console.WriteLine("Output: " + finalResult);
     }
 }

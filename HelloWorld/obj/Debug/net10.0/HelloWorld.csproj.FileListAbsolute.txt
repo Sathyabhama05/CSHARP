@@ -12,3 +12,4 @@
 /Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
 /Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
 /Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.sourcelink.json
