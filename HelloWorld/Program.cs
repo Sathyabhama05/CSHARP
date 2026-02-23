@@ -1,7 +1,7 @@
 ﻿using System;
 using HelloWorld;
 
-public class Program
+/*public class Program
 {
     public static void Main()
     {
@@ -25,4 +25,13 @@ public class Program
 
         Console.WriteLine("Output: " + finalResult);
     }
-}
+}*/
+
+Program2 ex = new Program2();
+
+Console.Write("Enter a number to analyze: ");
+int num = int.Parse(Console.ReadLine() ?? "0");
+
+Console.WriteLine("Even/Odd: " + ex.CheckEvenOdd(num));
+Console.WriteLine("Factorial: " + ex.GetFactorial(num));
+Console.WriteLine("Is Prime: " + ex.IsPrime(num));
