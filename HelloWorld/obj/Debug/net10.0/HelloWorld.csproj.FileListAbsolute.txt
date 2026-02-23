@@ -1,0 +1,14 @@
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/bin/Debug/net10.0/HelloWorld
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/Users/sathyabhamamuralikrishnan/Desktop/csharp workspace/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
